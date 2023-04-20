@@ -2,7 +2,7 @@
 A library of free open source generic inquiries for Acumatica created by variux.com
 
 
-## VX Item Inventory Levels
+## variux Item Inventory Levels (vx_item_inventory_levels.xml)
 Extremely simple join of the IN.InventoryItem table and In.INSiteStatusSummary to see Hard Quantity Available. Also allows quick search by ItemCD (Item#/SKU) and Item Description. 
 
 ![image](https://user-images.githubusercontent.com/5383576/233379867-afa3fb5f-f0fb-401e-8f72-cc320345bfb7.png)
